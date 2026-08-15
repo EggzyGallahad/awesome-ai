@@ -58,6 +58,7 @@ Legend:
   - [🆓💳 Deep Dream Generator — surreal image art](#deep-dream-generator)
   - [🆓💳 Picsart AI Art — editor + generation](#picsart-ai-art)
   - [🆓💳 Visme AI Image — visual content generator](#visme-ai-image)
+  - [🆓💳 Eimu — GPT Image 2 & Nano Banana Pro generator](#emu)
   - [🆓💳 RenderNet AI — character consistency](#rendernet-ai)
   - [🆓💳 SeaArt — large model hub](#seaart)
   - [🆓💳Seedream 4 Multi-model](#seedream4-video)
@@ -415,6 +416,10 @@ Legend:
 ### Seedream4 Video
 [https://seedream4.video](https://seedream4.video)  
 *Multi-model AI image generator (Seedream 4.0/4.5/5.0/5.0 Lite) + image-to-video animation (Kling) in one browser workflow.* **Pricing:** Freemium (free credits, no signup required for first generation).
+
+### Eimu
+[https://eimu.art](https://eimu.art)  
+*Online GPT Image 2 & Nano Banana Pro image generator — sign in, type a prompt, download. No relay setup or API key required.* **Pricing:** Freemium.
 
 ---
 
