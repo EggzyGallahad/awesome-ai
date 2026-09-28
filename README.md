@@ -68,6 +68,7 @@ Legend:
   - [🆓💳 Character.ai — chatbot personas](#characterai)
   - [🆓💳 Cohere Playground — enterprise LLM](#cohere-playground)
   - [💳 GPT-3 Playground — legacy OpenAI API](#gpt-3-playground)
+  - [🆓💳 kdpbook.io — AI book generator for Amazon KDP](#kdpbookio)
   - [🆓💳 Once Upon a Bot — story writer](#once-upon-a-bot)
   - [💳 ChatGPT Plus / Pro — OpenAI flagship](#chatgpt-plus--pro)
   - [💳 Claude (Anthropic) — long-context assistant](#claude-anthropic)
@@ -439,6 +440,10 @@ Legend:
 ### GPT‑3 Playground
 [https://beta.openai.com/playground](https://beta.openai.com/playground)  
 *Original GPT‑3 API.* **Pricing:** Pay‑as‑you‑go.
+
+### kdpbook.io
+[https://kdpbook.io/](https://kdpbook.io/)  
+*AI book generator for Amazon KDP: describe a book in a chat, get the print PDF, full-wrap cover, Kindle eBook and listing.* **Pricing:** Freemium.
 
 ### Once Upon a Bot
 [https://onceuponabot.com/](https://onceuponabot.com/)  
