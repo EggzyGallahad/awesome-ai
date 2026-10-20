@@ -61,6 +61,7 @@ Legend:
   - [🆓💳 RenderNet AI — character consistency](#rendernet-ai)
   - [🆓💳 SeaArt — large model hub](#seaart)
   - [🆓💳Seedream 4 Multi-model](#seedream4-video)
+  - [🆓💳 Seedream 5.5 — text-to-image + photo editing](#seedream-55)
 
 - [AI Text Models](#ai-text-models)
   - [🆓💳 AI21 Studio — Jurassic LLMs](#ai21-studio)
@@ -415,6 +416,10 @@ Legend:
 ### Seedream4 Video
 [https://seedream4.video](https://seedream4.video)  
 *Multi-model AI image generator (Seedream 4.0/4.5/5.0/5.0 Lite) + image-to-video animation (Kling) in one browser workflow.* **Pricing:** Freemium (free credits, no signup required for first generation).
+
+### Seedream 5.5
+[https://seedream5-5.net/](https://seedream5-5.net/)  
+*Text-to-image generation plus instruction-based photo editing, with consistent characters and legible in-image text.* **Pricing:** Freemium (free credits + paid plans).
 
 ---
 
