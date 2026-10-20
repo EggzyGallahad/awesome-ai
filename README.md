@@ -90,6 +90,7 @@ Legend:
   - [🆓💳 Luma Dream Machine — cinematic clips](#luma-dream-machine)
   - [💳 Kling 2.0 — realistic video model](#kling-20)
   - [💳 Hailuo AI — budget video gen](#hailuo-ai-minimax)
+  - [🆓💳 Pixwit — multi-model video & image gen](#pixwit)
   - [💳 Sora (OpenAI) — advanced video gen](#sora-openai)
   - [💳 Google Veo 2 — premium video AI](#google-veo-2)
   - [💳 WaveSpeed — fast rendering](#wavespeed)
@@ -531,6 +532,10 @@ Legend:
 ### Hailuo AI (Minimax)
 [https://hailuoai.video/](https://hailuoai.video/)  
 *Budget‑friendly Chinese model.* **Pricing:** Per‑request credits.
+
+### Pixwit
+[https://pixwit.ai/](https://pixwit.ai/)  
+*Multi‑model text‑to‑video and image‑to‑video with effect templates and image generation.* **Pricing:** Freemium (free tier, paid credits).
 
 ### Sora (OpenAI)
 [https://openai.com/sora](https://openai.com/sora)  
