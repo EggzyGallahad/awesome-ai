@@ -172,6 +172,7 @@ Legend:
   - [💳 Magnific AI — premium upscale](#magnific-ai)
   - [🆓💳 Krea Enhance — realtime upscale](#krea-enhance)
   - [🆓💳 Let’s Enhance — online restoration](#lets-enhance)
+  - [🆓💳 ToHD — browser video upscaler](#tohd)
 
 - [AI Realtime Voice Changing Models](#ai-realtime-voice-changing-models)
   - [💳 NyVox — Steam voice changer](#nyvox)
@@ -859,6 +860,10 @@ Legend:
 ### Let’s Enhance
 [https://letsenhance.io/](https://letsenhance.io/)  
 *Online upscaler and color correction.* **Pricing:** Freemium (free plan + from $0.02/image).
+
+### ToHD
+[https://tohd.video/](https://tohd.video/)  
+*Upscales 360p/480p video to 720p/1080p with Real-ESRGAN on your own GPU in the browser; the video is not uploaded.* **Pricing:** Freemium (free in browser + optional cloud credits from $4.99, one-time).
 
 ---
 
