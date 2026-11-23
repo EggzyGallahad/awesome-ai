@@ -984,6 +984,7 @@ Legend:
 
 All free to use (Colab runtime may limit GPU access).
 
+- [Free Image to Video](https://freeimagetovideo.ai/) - Free image to video AI with no daily cap: start with no sign-up, keep going on a free account. Every video comes with sound and no watermark.
 - [maintained by TheLastBen](https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb) – Fast WebUI launcher.
 - [maintained by camenduru](https://github.com/camenduru/stable-diffusion-webui-colab) – Collection of SD notebooks.
 - [maintained by ddPn08](https://github.com/ddPn08/automatic1111-colab) – Lightweight WebUI.
