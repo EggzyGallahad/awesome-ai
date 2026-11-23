@@ -418,6 +418,10 @@ Legend:
 
 ---
 
+### Kavel
+[https://www.kavel.ai/](https://www.kavel.ai/)  
+*Kavel is a free AI video generator and AI image generator — 4K clips with sound, and images you can run without an account or a card.* **Pricing:** Free (no account or card required).
+
 ## AI Text Models
 
 ### AI21 Studio
