@@ -292,6 +292,10 @@ Legend:
 [https://openart.ai/create](https://openart.ai/create)  
 *Curated DALL‑E interface.* **Pricing:** Freemium.
 
+### PalaPili
+[https://palapili.com](https://palapili.com)
+*AI image & video generator: photo enhancement, 4K upscaling, background/object removal, inpainting, and multi-model image & video generation.* **Pricing:** Free (10 credits on signup); paid from $9.99/mo.
+
 ### Pixray
 [https://replicate.com/pixray/text2image](https://replicate.com/pixray/text2image)  
 *Pixel‑oriented generative model.* **Pricing:** Freemium.
@@ -859,6 +863,10 @@ Legend:
 ### Let’s Enhance
 [https://letsenhance.io/](https://letsenhance.io/)  
 *Online upscaler and color correction.* **Pricing:** Freemium (free plan + from $0.02/image).
+
+### PalaPili
+[https://palapili.com](https://palapili.com)
+*AI photo enhancer and video generator: unblur, upscale to 4K, remove backgrounds/objects, inpaint, and generate images and video with multiple models.* **Pricing:** Free (10 credits on signup); paid from $9.99/mo.
 
 ---
 
